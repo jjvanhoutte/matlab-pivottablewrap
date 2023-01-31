@@ -9,3 +9,4 @@ If only one function is provided, it applies it to all variables.
 It also uses a wrapper for the string function so that it also can process 
 empty cells and function handles
 
+[![View matlab-pivottablewrap on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://nl.mathworks.com/matlabcentral/fileexchange/124240-matlab-pivottablewrap)
